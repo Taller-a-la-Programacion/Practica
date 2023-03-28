@@ -1,7 +1,7 @@
 # Practicas
 
 ## Instrucciones Generales
-- El archivo **debe** llamarse **Practicas.py**
+- El archivo **debe** llamarse **Practica.py**
 - **Debe** respetar el nombre de las funciones y el nombre de los parámetros que más adelante se describen
 - Deben contruir las funciones con **Python**
 - Debe crear los comentarios de cada función tomando en cuenta **Nombre**, **Entrada**, **Salida** y **Restricciones**
