@@ -26,7 +26,7 @@ Escribir un programa con sintaxis Python cuya función principal se llame **conv
 >>> convertirNumero(8517210, 5) #51 16807 20
 511680720
 >>>convertirNumero('8517210', 5)
-511680720
+'Error: Debe ser entero'
 ```
 
 
